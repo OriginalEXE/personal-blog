@@ -1,0 +1,6 @@
+.gatsby-resp-image-wrapper + em {
+  color: hsla(0, 0%, 0%, 0.7);
+  display: block;
+  margin-top: 1rem;
+  text-align: center;
+}
